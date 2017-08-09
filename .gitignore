@@ -1,0 +1,4 @@
+analysis/*.RData
+
+# I was to keep this file off git
+testdir/testFile1.txt
